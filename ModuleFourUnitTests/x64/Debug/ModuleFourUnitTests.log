@@ -1,0 +1,35 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (ModuleFourUnitTests.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  pch.cpp
+  test.cpp
+C:\Users\steve\Desktop\FinalPartTwo_Anderson\ModuleFourUnitTests\test.cpp(34,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  (compiling source file '/test.cpp')
+  
+C:\Users\steve\Desktop\FinalPartTwo_Anderson\ModuleFourUnitTests\test.cpp(240,5): warning C4834: discarding return value of function with [[nodiscard]] attribute
+  (compiling source file '/test.cpp')
+  
+C:\Users\steve\Desktop\FinalPartTwo_Anderson\ModuleFourUnitTests\test.cpp(290,8): warning C4003: not enough arguments for function-like macro invocation 'TEST'
+  (compiling source file '/test.cpp')
+  
+C:\Users\steve\Desktop\FinalPartTwo_Anderson\ModuleFourUnitTests\test.cpp(290,8): warning C4091: 'static ': ignored on left of 'HashTest__Test' when no variable is declared
+  (compiling source file '/test.cpp')
+  
+C:\Users\steve\Desktop\FinalPartTwo_Anderson\ModuleFourUnitTests\test.cpp(306,11): warning C4267: 'argument': conversion from 'size_t' to 'const _Elem', possible loss of data
+C:\Users\steve\Desktop\FinalPartTwo_Anderson\ModuleFourUnitTests\test.cpp(306,11): warning C4267:         with
+C:\Users\steve\Desktop\FinalPartTwo_Anderson\ModuleFourUnitTests\test.cpp(306,11): warning C4267:         [
+C:\Users\steve\Desktop\FinalPartTwo_Anderson\ModuleFourUnitTests\test.cpp(306,11): warning C4267:             _Elem=char
+C:\Users\steve\Desktop\FinalPartTwo_Anderson\ModuleFourUnitTests\test.cpp(306,11): warning C4267:         ]
+  (compiling source file '/test.cpp')
+  
+C:\Users\steve\Desktop\FinalPartTwo_Anderson\ModuleFourUnitTests\test.cpp(313,8): warning C4003: not enough arguments for function-like macro invocation 'TEST'
+  (compiling source file '/test.cpp')
+  
+C:\Users\steve\Desktop\FinalPartTwo_Anderson\ModuleFourUnitTests\test.cpp(313,8): warning C4091: 'static ': ignored on left of 'FileLoadingTest__Test' when no variable is declared
+  (compiling source file '/test.cpp')
+  
+C:\Users\steve\Desktop\FinalPartTwo_Anderson\ModuleFourUnitTests\test.cpp(345,1): warning C4003: not enough arguments for function-like macro invocation 'TEST'
+  (compiling source file '/test.cpp')
+  
+C:\Users\steve\Desktop\FinalPartTwo_Anderson\ModuleFourUnitTests\test.cpp(367,1): warning C4003: not enough arguments for function-like macro invocation 'TEST'
+  (compiling source file '/test.cpp')
+  
+  ModuleFourUnitTests.vcxproj -> C:\Users\steve\Desktop\FinalPartTwo_Anderson\x64\Debug\FinalPartTwo.exe
