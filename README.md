@@ -1,7 +1,9 @@
 # SA-176.github.io
 CS-499
 
-theme: jekyll-theme-minimal
+remote_theme: pages-theme/modernist@v0.2.0
+plugins:
+- jekyll-remote-theme
 
 This is my final project ePortfolio for my CS 499 class. In this class I took three existing coing artifacts and enhanced them to showcase different abilities and strengths in my code development. 
 
