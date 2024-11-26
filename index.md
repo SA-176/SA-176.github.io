@@ -6,7 +6,7 @@ This is my ePortfolio that showcases my knowledge and skills I've gained through
 ## code review
 
 First is my code review. In this video I reviewed each of my chosen artifacts before enhancing.
-[Link to another page](https://youtu.be/lZIgf2Pzvbk)
+[Code Review Link](https://youtu.be/lZIgf2Pzvbk)
 
 ## First Artifact
 
