@@ -1,6 +1,6 @@
 ## Hello World!
 
-This is my ePortfolio that showcases my knowledge and skills I've gained through the Computer Science program of Southern New Hamphsire University. Thoughout the program I was able to learn many new skills and languages that I can take with me into my future career in computer science development. 
+This is my ePortfolio that showcases some of the knowledge and skills I've gained through the Computer Science program of Southern New Hamphsire University. Thoughout the program I was able to learn many new skills and languages that I can take with me into my future career in computer science development. 
 
 
 ## Code Review
