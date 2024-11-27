@@ -5,7 +5,7 @@ This is my ePortfolio that showcases my knowledge and skills I've gained through
 
 ## Code Review
 
-First is my code review. In this video I reviewed each of my chosen artifacts before enhancing.
+First is my code review. In this video I reviewed each of my chosen artifacts before enhancing. In the review I breakdown the design of each project, detailing what each function. I go through the code structure and algorithms.
 
 [Code Review Link](https://youtu.be/lZIgf2Pzvbk)
 
