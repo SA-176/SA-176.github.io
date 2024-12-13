@@ -21,3 +21,7 @@ My 2nd artifact is my project from my CS 405 class. In this project I had to pro
 
 [Enhancement for CS 405](https://github.com/SA-176/SA-176.github.io/tree/405Enhancement)
 
+##Third Enhancement
+
+My third enhancement was on my final project for my CS 340 class which used a MongoDB controlled with a Python CRUD file. For my enhancement I added new commands to the CRUD file to expand the control over the database. 
+[Ehancement for CS 340](https://github.com/SA-176/SA-176.github.io.git)
