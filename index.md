@@ -5,7 +5,7 @@ This is my ePortfolio that showcases some of the knowledge and skills I've gaine
 
 ## Code Review
 
-First is my code review. In this video I reviewed each of my chosen artifacts before enhancing. In the review I breakdown the design of each project, detailing what each function. I go through the code structure and algorithms.
+First is my code review. In this video I reviewed each of my chosen artifacts before enhancing. In the review I breakdown the design of each project, detailing what each function. I go through the code structure and algorithms. talk about the security of each code, making sure to point out the needed exceptions and error checks in the code. 
 
 [Code Review Link](https://youtu.be/lZIgf2Pzvbk)
 
@@ -23,6 +23,6 @@ My 2nd artifact is my project from my CS 405 class. In this project I had to pro
 
 ##Third Enhancement
 
-My third enhancement was on my final project for my CS 340 class which used a MongoDB controlled with a Python CRUD file. For my enhancement I added new commands to the CRUD file to expand the control over the database. I added four new commands to the CRUD file to fill gaps in the original CRUD capabilities. The first was  delete one command since the original delete was used to delete multiple entries if they shared the same information, this new delete one would only delete the first entry in the database that matched the information in the search. The next was a replace command that would search the database for what the user wanted and replace it with the new user input to the database. The third new command was a create many command. the original command only added one entry to the database per call of the command. the new command adds all entries tied to the call of the command. The fourth new command was 
+My third enhancement was on my final project for my CS 340 class which used a MongoDB controlled with a Python CRUD file. For my enhancement I added new commands to the CRUD file to expand the control over the database. I added four new commands to the CRUD file to fill gaps in the original CRUD capabilities. The first was  delete one command since the original delete was used to delete multiple entries if they shared the same information, this new delete one would only delete the first entry in the database that matched the information in the search. the next command was a update command that searches for an entry and replaces data in that entry with new data from the user. The third new command was a create many command. the original command only added one entry to the database per call of the command. the new command adds all entries tied to the call of the command. The fourth new command is a replace command that would search the database for what the user wanted and replace it with the new user input to the database.
 
 [Ehancement for CS 340](https://github.com/SA-176/SA-176.github.io/tree/340Enhancement))
