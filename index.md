@@ -4,6 +4,14 @@
 This is my ePortfolio that showcases some of the knowledge and skills I've gained through the Computer Science program of Southern New Hamphsire University. Thoughout the program I was able to learn many new skills and languages that I can take with me into my future career in computer science development. 
 
 
+## Table of Contents
+
+&nbsp;[1. Self-Assessment](#Self-Assessment)<br/>
+&nbsp;[2. Code Review](#Code-Review)<br/>
+&nbsp;[3. First Artifact](#First-Artifact)<br/>
+&nbsp;[4. Second Artifact](#Second-Artifact)<br/>
+&nbsp;[5. Third Artifact](#Third-Artifact)<br/>
+
 ## Self-Assessment
 
 
