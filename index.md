@@ -27,6 +27,7 @@ My attention to detail and thinking about who will read my program code after me
 <p style ="text-indent: 25px;">
 Many of the courses I took throughout the degree taught me skill I didn’t have before. I learned how to work on a full stack development program, how to work with databases and how to make 3D models from nothing but code. I took courses that challenged me in my understanding of coding and helped me develop new skills in secure coding practices. I know I still have a lot to learn and computer science isnt a field that ends with the degree and my journey of learning isn’t and will never be over. With emerging technologies like A.I. there will always be more to learn and more to help me develop my skills. I also learned it is okay to work with a team and not know everything and rely on those on your team to help me develop new skills or complete tasks that I might have a gap in my knowledge about. But also how to find the right resources to learn the new skills myself and expand my knowledge whenever I can. I plan on taking what I have learned in this program and expanding it with new certifactions like the CompTIA A+, security+ and network+ certifications and into the next degree I get moving forward. 
 
+<br/>
 
 ## Code Review
 
@@ -35,6 +36,8 @@ Many of the courses I took throughout the degree taught me skill I didn’t have
 </p>
 
 [Code Review Link](https://youtu.be/lZIgf2Pzvbk)
+
+<br/>
 
 ## First Artifact
 
@@ -50,6 +53,7 @@ Many of the courses I took throughout the degree taught me skill I didn’t have
 
 [Enhancement for CS_300](https://github.com/SA-176/SA-176.github.io/tree/300Enhancement)
 
+<br/>
 
 ## Second Artifact
 
@@ -68,6 +72,7 @@ Many of the courses I took throughout the degree taught me skill I didn’t have
 
 [Enhancement for CS 405](https://github.com/SA-176/SA-176.github.io/tree/405Enhancement)
 
+<br/>
 
 ## Third Artifact
 
@@ -82,3 +87,5 @@ Many of the courses I took throughout the degree taught me skill I didn’t have
 </p>
 
 [Ehancement for CS 340](https://github.com/SA-176/SA-176.github.io/tree/340Enhancement))
+
+<br/>
