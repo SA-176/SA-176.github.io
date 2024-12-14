@@ -50,6 +50,7 @@ Many of the courses I took throughout the degree taught me skill I didn’t have
 
 [Enhancement for CS_300](https://github.com/SA-176/SA-176.github.io/tree/300Enhancement)
 
+
 ## Second Artifact
 
 <p style ="text-indent: 25px;">
@@ -66,6 +67,7 @@ Many of the courses I took throughout the degree taught me skill I didn’t have
 </p>
 
 [Enhancement for CS 405](https://github.com/SA-176/SA-176.github.io/tree/405Enhancement)
+
 
 ## Third Artifact
 
