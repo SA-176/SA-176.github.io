@@ -7,6 +7,11 @@ This is my ePortfolio that showcases some of the knowledge and skills I've gaine
 ## <u>Table of Contents</u>
 
 &nbsp;[Self-Assessment](#Self-Assessment)<br/>
+&nbsp;[Code Review](#Code-Review)<br/>
+&nbsp;[First Artifact](#First-Artifact)<br/>
+&nbsp;[Second Artifact](#Second-Artifact)<br/>
+&nbsp;[Third Artifact](#Third-Artifact)<br/>
+
 
 ## Self-Assessment
 
