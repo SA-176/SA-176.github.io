@@ -28,7 +28,7 @@ Many of the courses I took throughout the degree taught me skill I didn’t have
 
 <br/>
 
-## Code Review
+## Code Review id="Code-Review"
 
 
   First is my code review. In this video I reviewed each of my chosen artifacts before enhancing. In the review I breakdown the design of each project, detailing what each function. I go through the code structure and algorithms. talk about the security of each code, making sure to point out the needed exceptions and error checks in the code. 
