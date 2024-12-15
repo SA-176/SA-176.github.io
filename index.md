@@ -26,7 +26,7 @@ My attention to detail and thinking about who will read my program code after me
 Many of the courses I took throughout the degree taught me skill I didn’t have before. I learned how to work on a full stack development program, how to work with databases and how to make 3D models from nothing but code. I took courses that challenged me in my understanding of coding and helped me develop new skills in secure coding practices. I know I still have a lot to learn and computer science isnt a field that ends with the degree and my journey of learning isn’t and will never be over. With emerging technologies like A.I. there will always be more to learn and more to help me develop my skills. I also learned it is okay to work with a team and not know everything and rely on those on your team to help me develop new skills or complete tasks that I might have a gap in my knowledge about. But also how to find the right resources to learn the new skills myself and expand my knowledge whenever I can. I plan on taking what I have learned in this program and expanding it with new certifactions like the CompTIA A+, security+ and network+ certifications and into the next degree I get moving forward. 
 
 
-<h2 id="Code-Review"><img src="reviews.jpg" alt="Hello" width="50" height="50">     Code Review </h2>
+<h2 id="Code-Review"><img src="reviews.png" alt="Hello" width="50" height="50">     Code Review </h2>
 
 
   First is my code review. In this video I reviewed each of my chosen artifacts before enhancing. In the review I breakdown the design of each project, detailing what each function. I go through the code structure and algorithms. talk about the security of each code, making sure to point out the needed exceptions and error checks in the code. 
