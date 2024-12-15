@@ -6,14 +6,11 @@ This is my ePortfolio that showcases some of the knowledge and skills I've gaine
 
 ## Table of Contents
 
-&nbsp;[1. Self-Assessment](#Self-Assessment)<br/>
-&nbsp;[2. Code Review](#Code-Review)<br/>
-
-<a href="Code-Review"></a>
-
-&nbsp;[3. First Artifact](#First-Artifact)<br/>
-&nbsp;[4. Second Artifact](#Second-Artifact)<br/>
-&nbsp;[5. Third Artifact](#Third-Artifact)<br/>
+&nbsp;[1. Self-Assessment](https://github.com/SA-176/SA-176.github.io/blob/main/index.md#self-assessment)<br/>
+&nbsp;[2. Code Review](https://github.com/SA-176/SA-176.github.io/blob/main/index.md#code-review)<br/>
+&nbsp;[3. First Artifact](https://github.com/SA-176/SA-176.github.io/blob/main/index.md#first-artifact)<br/>
+&nbsp;[4. Second Artifact](https://github.com/SA-176/SA-176.github.io/blob/main/index.md#second-artifact)<br/>
+&nbsp;[5. Third Artifact](https://github.com/SA-176/SA-176.github.io/blob/main/index.md#third-artifact)<br/>
 
 ## Self-Assessment
 
@@ -30,7 +27,6 @@ My attention to detail and thinking about who will read my program code after me
 Many of the courses I took throughout the degree taught me skill I didn’t have before. I learned how to work on a full stack development program, how to work with databases and how to make 3D models from nothing but code. I took courses that challenged me in my understanding of coding and helped me develop new skills in secure coding practices. I know I still have a lot to learn and computer science isnt a field that ends with the degree and my journey of learning isn’t and will never be over. With emerging technologies like A.I. there will always be more to learn and more to help me develop my skills. I also learned it is okay to work with a team and not know everything and rely on those on your team to help me develop new skills or complete tasks that I might have a gap in my knowledge about. But also how to find the right resources to learn the new skills myself and expand my knowledge whenever I can. I plan on taking what I have learned in this program and expanding it with new certifactions like the CompTIA A+, security+ and network+ certifications and into the next degree I get moving forward. 
 
 
-<h1 id="Code-Review></h1>
 ## Code Review 
 
 
