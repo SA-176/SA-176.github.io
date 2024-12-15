@@ -13,7 +13,8 @@ This is my ePortfolio that showcases some of the knowledge and skills I've gaine
 &nbsp;[4. Second Artifact](https://github.com/SA-176/SA-176.github.io/blob/main/index.md#second-artifact)<br/>
 &nbsp;[5. Third Artifact](https://github.com/SA-176/SA-176.github.io/blob/main/index.md#third-artifact)<br/>
 
-## Self-Assessment
+
+<p id="Self-Assessment">## Self-Assessment</p>
 
 
 My journey in computer science started when I was a kid in middle school and a close friend of mine talked to me about building a website. We spent weeks after that learning all we could absorb about HTML and web development before finally building and running our own simple forum website for geeky topics. That website isn’t around anymore but the facination I developed for computer science has been around ever since. I ended up going to a magnet high school for computers and learned all I could about programming, game development and computer engineering. So when I finally had the opportunity to advance my education I jumped at the opportunity to join the SNHU computer science program. 
