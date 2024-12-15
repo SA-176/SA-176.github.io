@@ -4,9 +4,9 @@
 This is my ePortfolio that showcases some of the knowledge and skills I've gained through the Computer Science program of Southern New Hamphsire University. Thoughout the program I was able to learn many new skills and languages that I can take with me into my future career in computer science development. 
 
 ## Table of Contents
-
-<li><a href="#Self-Assessment">Self-Assessment</a></li>
-
+<ol>
+  <li><a href="#Self-Assessment">Self-Assessment</a></li>
+</ol>
 ## Self-Assessment
 
 <h2 id="Self-Assessment"> Self-Assessment </h2>
