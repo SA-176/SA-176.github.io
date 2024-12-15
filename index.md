@@ -25,6 +25,24 @@ My attention to detail and thinking about who will read my program code after me
 
 Many of the courses I took throughout the degree taught me skill I didn’t have before. I learned how to work on a full stack development program, how to work with databases and how to make 3D models from nothing but code. I took courses that challenged me in my understanding of coding and helped me develop new skills in secure coding practices. I know I still have a lot to learn and computer science isnt a field that ends with the degree and my journey of learning isn’t and will never be over. With emerging technologies like A.I. there will always be more to learn and more to help me develop my skills. I also learned it is okay to work with a team and not know everything and rely on those on your team to help me develop new skills or complete tasks that I might have a gap in my knowledge about. But also how to find the right resources to learn the new skills myself and expand my knowledge whenever I can. I plan on taking what I have learned in this program and expanding it with new certifactions like the CompTIA A+, security+ and network+ certifications and into the next degree I get moving forward. 
 
+
+My course outcomes I wished to have with this course were to show my ability to work collaboratively that allows others to read and understand my code and programing. To design develop and deliver my coherent and techniqually sound contexts for my project enhancements. Use designed and evaluated computer solutions to problems using algorithmic practices that adhere to common standards for each given problem. Demonstrate my ability to use innovative skills, tools and techniques to implement my solutions. And showcase a security focused mindset that protects form exploits and mitigates flaws and vulnerabilities. 
+
+
+For the first outcome I showcased this by writing my code is easy to follow ways with plenty of comments to show the progression of the code and why certain logic is being used. I also developed easy to understand and detailed flowcharts to show the designs I intended for my programs before starting the enhancements. 
+
+
+For the second outcome I made sure all of my program enhancement designs were streamlined and avoided bulk code that wasted space when an easier method was available. I showcased this in my first enhancement when being able to cut enough lines during my conversion from C++ to Python utilizing methods in Python that allowed me to store information from files into arrays without needing to use a vector to first separate each line. In my second enhancement I showed this by using TEST_P unit tests to run mulitple tests with the same varaiables without having to manually code each variable into the individual tests. 
+
+
+For the third course outcome I showcased these skills by best practice algorithmic coding to achieve my solutions. I was able to remove the need for a vector in my first enhancement and cut down on the code size and removed the need for the function call setToken. In my second enhancement I showed these skills by being able to showcase file opening, data hashing and advance mathmatical arithmetic using code that kept each of these condensed with only enough code to succesfully achieve the solution and test them. In my third enhancement I took advantage of the commands available in Python to code my additional commands such as delete_many() or update_one().
+
+ 
+For my fourth course outcome I showcased these skills by using new methods and processes that I learned while working on the enhancements. In my first enhancement I was rewritting a C++ program in Python. I had to use resources from Python to find the tools needed to work with arrays in Python in a way that streamlined the file reading process with less steps than C++ can. In my second enhancement I had to ultize new classes I built in order to run TEST_P tests and use the library cmath in order to complete both quadratic and trigometric equations in code. In my thrid enhancement I showcased these skills by using the commands Python allows to showcase the best tools and techniques to create commands for mongoDB databases. Using the methods available in Python to allow altering of the database.
+
+
+For the fifth course outcome I showcased a lot of these skills in my second enhancement but also kept security in mind while coding the other two. My second enhancement was using gunit tests to ensure the right outcome was achieve in each code block. I showcased proper vairable limits by not having more variables than needed which could be exploited if a variable is left unassigned. I also showcased the security mindset of avoiding memory leaks by ensure that files opened where properly closed in each enhancement. Since memory leaks can be taken advantage of by attackers to cosume available system memory in a program. 
+
 <ol>
   <a href="#Table">Back to Table</a>
 </ol>
