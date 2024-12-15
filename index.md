@@ -9,7 +9,7 @@ This is my ePortfolio that showcases some of the knowledge and skills I've gaine
 &nbsp;[1. Self-Assessment](#Self-Assessment)<br/>
 &nbsp;[2. Code Review](#Code-Review)<br/>
 
-<a href="Code-Review></a>
+<a href="Code-Review"></a>
 
 &nbsp;[3. First Artifact](#First-Artifact)<br/>
 &nbsp;[4. Second Artifact](#Second-Artifact)<br/>
