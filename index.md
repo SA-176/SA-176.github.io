@@ -6,8 +6,11 @@ This is my ePortfolio that showcases some of the knowledge and skills I've gaine
 ## Table of Contents
 <ol>
   <li><a href="#Self-Assessment">Self-Assessment</a></li>
+  <li><a href="#Code-Review">Code Review</a></li>
+  <li><a href="#First-Artifact">First Artifact</a></li>
+  <li><a href="#Second-Artifact">Second Artifact</a></li>
+  <li><a href="#Third-Artifact">Third Artifact</a></li>
 </ol>
-## Self-Assessment
 
 <h2 id="Self-Assessment"> Self-Assessment </h2>
 
@@ -23,7 +26,7 @@ My attention to detail and thinking about who will read my program code after me
 Many of the courses I took throughout the degree taught me skill I didn’t have before. I learned how to work on a full stack development program, how to work with databases and how to make 3D models from nothing but code. I took courses that challenged me in my understanding of coding and helped me develop new skills in secure coding practices. I know I still have a lot to learn and computer science isnt a field that ends with the degree and my journey of learning isn’t and will never be over. With emerging technologies like A.I. there will always be more to learn and more to help me develop my skills. I also learned it is okay to work with a team and not know everything and rely on those on your team to help me develop new skills or complete tasks that I might have a gap in my knowledge about. But also how to find the right resources to learn the new skills myself and expand my knowledge whenever I can. I plan on taking what I have learned in this program and expanding it with new certifactions like the CompTIA A+, security+ and network+ certifications and into the next degree I get moving forward. 
 
 
-## Code Review 
+<h2 id="Code-Review"> Code Review </h2>
 
 
   First is my code review. In this video I reviewed each of my chosen artifacts before enhancing. In the review I breakdown the design of each project, detailing what each function. I go through the code structure and algorithms. talk about the security of each code, making sure to point out the needed exceptions and error checks in the code. 
@@ -32,7 +35,7 @@ Many of the courses I took throughout the degree taught me skill I didn’t have
 [Code Review Link](https://youtu.be/lZIgf2Pzvbk)
 
 
-## First Artifact
+<h2 id="First-Artifact"> First Artifact </h2>
 
 
   My first artifact that I enhanced was my program from my CS 300 course. It was a .csv loader program that was written in C++. It loaded a menu for the user for a course planner that included four options. First option is to load from a file the course information. This information is stored for each class by name, number and prerequisite courses. then there are the options for course viewing. One that prints the full course list organized by course number. the second option loads an individual course the user inputs the number for. It prints the course name, number and then lists the prerequisite courses. then there is the final exit option that exits the course planner application. For my enhancement I rewrote the program using Python instead to showcase my ability to skill in design and software engineering by designing the program to work using python script instead of C++ script and enhancing the array storage method. I ended up throwing out the vector usage from the original C++ program and relying on the better array methods present in Python to simplify the code. 
