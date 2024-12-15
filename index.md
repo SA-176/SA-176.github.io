@@ -7,6 +7,7 @@ This is my ePortfolio that showcases some of the knowledge and skills I've gaine
 ## Table of Contents
 
 &nbsp;[1. Self-Assessment](https://github.com/SA-176/SA-176.github.io/blob/main/index.md#self-assessment)<br/>
+<a href="Self-Assessment">Self Assessment</a>
 &nbsp;[2. Code Review](https://github.com/SA-176/SA-176.github.io/blob/main/index.md#code-review)<br/>
 &nbsp;[3. First Artifact](https://github.com/SA-176/SA-176.github.io/blob/main/index.md#first-artifact)<br/>
 &nbsp;[4. Second Artifact](https://github.com/SA-176/SA-176.github.io/blob/main/index.md#second-artifact)<br/>
